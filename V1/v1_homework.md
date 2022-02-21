@@ -56,7 +56,7 @@ Valid program names are:
   wordstandarddeviation: A map/reduce program that counts the standard deviation of the length of the words in the input files.
 ```
 
-If a valid program name is provided as the first parameter, one sees the usage. E.g for $\pi$ estimation with Monte Carlo:
+If a valid program name is provided as the first parameter, one sees the usage. E.g for Pi estimation with Monte Carlo:
 
 ```bash
 ~/hadoop/bin/hadoop jar ~/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-examples-3.3.1.jar pi
@@ -64,8 +64,8 @@ If a valid program name is provided as the first parameter, one sees the usage. 
 
 We see the desired usage:
 
-```bash
-# Usage: org.apache.hadoop.examples.QuasiMonteCarlo <nMaps> <nSamples>
+```text
+Usage: org.apache.hadoop.examples.QuasiMonteCarlo <nMaps> <nSamples>
 ```
 
 ### Pi Estimation
