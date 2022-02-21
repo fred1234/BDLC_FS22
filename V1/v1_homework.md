@@ -2,7 +2,7 @@
 
 ## Unix Skills
 
-Throughout the module, we will use our virtual machine. If you don't feel comfortable to work with Unix commands, make sure to read this [tutorial](http://www.ee.surrey.ac.uk/Teaching/Unix/index.html) (Tutorial seven is not needed).
+Throughout the module, we will use our virtual machine. If you don't feel comfortable to work with Unix, make sure to read this [tutorial](http://www.ee.surrey.ac.uk/Teaching/Unix/index.html) (Tutorial seven is not needed).
 
 You can try out the commands on your virtual machine. Just SSH into your machine with `ssh student@bdlc-XX.el.eee.intern`, where `XX` is your personal virtual machine number.
 
@@ -19,9 +19,9 @@ su - hadoop
 
 which should not produce an error.
 
-## Run Some Examples
+## Run Some Hadoop Examples
 
-Try to run some examples. An example program must be given as the first argument.
+Try to run some provided examples. An example program must be given as the first argument.
 
 You will get the list of examples with
 ```bash
@@ -80,7 +80,7 @@ Play around with the `<nMaps>` and `<nSamples>` and get a feeling for accuracy v
 
 ### Sudoku Solver
 
-Let us try to solve a Sudoku. After "googling" for `hardest sudoku ever`, write a new file, called `puzzle.dat` to your home directory.
+Let us try to solve a Sudoku. After "googling" for `hardest sudoku ever`, write a new file, called `puzzle.dat`, to your home directory with the hard soduoku puzzle as the content.
 
 ```bash
 cat puzzle.dat
@@ -97,5 +97,4 @@ cat puzzle.dat
 
 ```bash
 ~/hadoop/bin/hadoop jar ~/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-examples-3.3.1.jar sudoku ~/puzzle.dat
-Solving /home/hadoop2/puzzle.dat
 ```
