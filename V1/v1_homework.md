@@ -68,9 +68,9 @@ We see the desired usage:
 # Usage: org.apache.hadoop.examples.QuasiMonteCarlo <nMaps> <nSamples>
 ```
 
-### $\pi$ Estimation
+### Pi Estimation
 
-Run the $\pi$ estimator with `1` mapper and `1` sample.
+Run the Pi estimator with `1` mapper and `1` sample.
 
 ```bash
 ~/hadoop/bin/hadoop jar ~/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-examples-3.3.1.jar pi 1 1
