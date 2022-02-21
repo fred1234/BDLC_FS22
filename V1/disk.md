@@ -1,6 +1,8 @@
 # Disk Installation
 
-We need to mount the additional `150GB`-Disk. After you logged in to your machine with `ssh student@bdlc-XX.el.eee.intern` where `XX` is your personal virtual machine number. Execute the following commands. Note, this has to be done once.
+We need to mount the additional `150GB`-Disk. After you logged in to your machine with `ssh student@bdlc-XX.el.eee.intern`, where `XX` is your personal virtual machine number, execute the following commands. Note, this has to be done once.
+
+## Commands
 
 ```bash
 # list block devices
