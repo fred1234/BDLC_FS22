@@ -107,16 +107,25 @@ mv hadoop-3.3.1 hadoop
 We need to specify `JAVA_HOME` in `~/hadoop/etc/hadoop/hadoop-env.sh`. To figure out where java's home is, run:
 
 ```bash
-dirname $(dirname $(readlink -f $(which javac)))
+dirname $(dirname $(readlink -f $(which java)))
 ```
 
-and copy the output (`/usr/lib/jvm/java-17-openjdk-amd64`).
+and copy the output (`/usr/lib/jvm/java-11-openjdk-amd64`).
+
+```text
+change the line from
+# export JAVA_HOME= 
+```
+
+to
+
+```text
+export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+```
+
+with
 
 ```bash
-# change the line from
-# # export JAVA_HOME= 
-# to 
-# export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
 nano ~/hadoop/etc/hadoop/hadoop-env.sh
 ```
 
