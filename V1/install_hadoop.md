@@ -20,7 +20,7 @@ sudo apt upgrade
 
 ## Hadoop User
 
-We will create a user `hadoop` and won't user our `student` account. All Hadoop processes will run under the user `hadoop`.
+We will create a user `hadoop` and won't use our `student` account. All Hadoop processes will run under the user `hadoop`.
 
 ```bash
 # create a new user called 'hadoop'
