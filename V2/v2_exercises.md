@@ -1,4 +1,4 @@
-# Homework
+# Exercises
 
 Use the user `hadoop`.
 
@@ -80,7 +80,7 @@ import sys
 for line in sys.stdin:
     line = line.strip()
     # your code here
-    # emmit each word with word \t 1
+    # emit each word with word \t 1
 ```
 
 Make sure that the code has executable permissions by invoking `chmod 755 mapper.py`.

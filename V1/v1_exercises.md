@@ -1,4 +1,4 @@
-# Homework
+# Exercises
 
 ## Unix Skills
 

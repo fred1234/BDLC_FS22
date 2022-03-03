@@ -21,7 +21,7 @@ This repository is used to provide additional resources for `BDLC_FS22`.
 .
 ├── disk.md             # how to add additional disk space
 ├── install_hadoop.md   # how to install Apache Hadoop in Standalone Operation
-└── v1_homework.md      # homework for this session
+└── v1_exercises.md      # exercises for this session
 ```
 
 ## [V2](./V2/)
@@ -33,9 +33,9 @@ This repository is used to provide additional resources for `BDLC_FS22`.
 
 ``` bash
 .
-├── python_solution                         # solutions for v2_homework
+├── python_solution                         # solutions for v2_exercises
 │   ├── mapper.py
 │   └── reducer.py
 ├── install_hadoop_pseudo_distributed.md    # how to install Apache Hadoop in Pseudo Distributed Mode
-└── v2_homework.md                          # homework for this week
+└── v2_exercises.md                          # exercises for this week
 ```
