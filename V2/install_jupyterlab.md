@@ -10,6 +10,8 @@ pip install jupyterlab
 jupyter notebook --generate-config
 ```
 
+If this command does not work, sign out of your session (type `exit` until you are back on your local machine). Sign in again and the above command should work.
+
 ```bash
 jupyter notebook password
 ```
