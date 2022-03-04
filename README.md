@@ -37,5 +37,6 @@ This repository is used to provide additional resources for `BDLC_FS22`.
 │   ├── mapper.py
 │   └── reducer.py
 ├── install_hadoop_pseudo_distributed.md    # how to install Apache Hadoop in Pseudo Distributed Mode
+├── install_jupyterlab.md                   # guide for installing JupyterLab
 └── v2_exercises.md                         # exercises for this week
 ```
