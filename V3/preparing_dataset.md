@@ -85,16 +85,15 @@ rm gutenberg.tar.bz2
 - If you are interested how I downloaded the corpus, check this (repository)[https://github.com/pgcorpus/gutenberg]
 - And more information about project gutenberg are (here)[https://www.gutenberg.org]
 
+## Copy the files to `hdfs`
 
-## Copy the files to hdfs
-
-Remove the `/dataset` folder on hdfs with:
+Remove the `/dataset` folder on `hdfs` with:
 
 ```bash
 hdfs dfs -rm -r /dataset
 ```
 
-and copy the needed dataset folder to hdfs:
+and copy the needed dataset folder to `hdfs`:
 
 ```bash
 hdfs dfs -mkdir -p /dataset/text
