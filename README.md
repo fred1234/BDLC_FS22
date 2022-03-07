@@ -40,3 +40,10 @@ This repository is used to provide additional resources for `BDLC_FS22`.
 ├── install_jupyterlab.md                   # guide for installing JupyterLab
 └── v2_exercises.md                         # exercises for this week
 ```
+
+## [V3](./V3/)
+
+- Setup and Customize `JupyterLab`.
+- Setup some dataset.
+- Tune our `Hadoop` Cluster.
+- Get familiar with `MapReduce` and `MrJob`.
