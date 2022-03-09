@@ -28,8 +28,15 @@ We will have three sub exercises in this section:
 
 The `Jupyter` notebooks are located in the folder [./v3_exercises_material/2_WordCount/](./v3_exercises_material/2_WordCount/).
 
-## Average with MapReudce
+## Average with MapReduce
 
 The goal is to calculate the average (the mean) with MapReduce given integers as input.
 
 The `Jupyter` notebooks are located in the folder [./v3_exercises_material/3_Average/](./v3_exercises_material/3_Average/).
+
+## Pi Estimation with Monte-Carlo-Simulation
+
+You already did the Pi estimation with the hadoop examples. Now it is time to implement it for yourselves.
+
+The notebook is in the folder [./v3_exercises_material/4_Pi-Estimation/](./v3_exercises_material/4_Pi-Estimation/)
+
