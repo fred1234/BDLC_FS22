@@ -40,3 +40,10 @@ You already did the Pi estimation with the hadoop examples. Now it is time to im
 
 The notebook is in the folder [./v3_exercises_material/4_Pi-Estimation/](./v3_exercises_material/4_Pi-Estimation/)
 
+## Anagram
+
+> An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
+From [Wikipedia](https://en.wikipedia.org/wiki/Anagram).
+
+Your task is to implement this algorithm with MapReduce [./v3_exercises_material/5_Anagram/](./v3_exercises_material/5_Anagram/).
