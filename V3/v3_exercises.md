@@ -27,3 +27,9 @@ We will have three sub exercises in this section:
 3. Sort the results where the most frequent words are on top.
 
 The `Jupyter` notebooks are located in the folder [./v3_exercises_material/2_WordCount/](./v3_exercises_material/2_WordCount/).
+
+## Average with MapReudce
+
+The goal is to calculate the average (the mean) with MapReduce given integers as input.
+
+The `Jupyter` notebooks are located in the folder [./v3_exercises_material/3_Average/](./v3_exercises_material/3_Average/).
