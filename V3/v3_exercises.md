@@ -47,3 +47,9 @@ The notebook is in the folder [./v3_exercises_material/4_Pi-Estimation/](./v3_ex
 From [Wikipedia](https://en.wikipedia.org/wiki/Anagram).
 
 Your task is to implement this algorithm with MapReduce [./v3_exercises_material/5_Anagram/](./v3_exercises_material/5_Anagram/).
+
+## Movies
+
+We we load the [MovieLens dataset](https://grouplens.org/datasets/movielens/), do some cleaning and get the average ratings for all movies.
+
+The material is located under [./v3_exercises_material/6_Movies/](./v3_exercises_material/6_Movies/).
