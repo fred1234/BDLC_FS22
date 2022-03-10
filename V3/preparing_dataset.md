@@ -82,8 +82,8 @@ rm gutenberg.tar.bz2
 
 ### More Information on the dataset
 
-- If you are interested how I downloaded the corpus, check this (repository)[https://github.com/pgcorpus/gutenberg]
-- And more information about project gutenberg are (here)[https://www.gutenberg.org]
+- If you are interested how I downloaded the corpus, check this [repository](https://github.com/pgcorpus/gutenberg)
+- And more information about project gutenberg are [here](https://www.gutenberg.org)
 
 ## Copy the files to `hdfs`
 
