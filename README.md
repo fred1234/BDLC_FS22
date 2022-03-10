@@ -47,3 +47,14 @@ This repository is used to provide additional resources for `BDLC_FS22`.
 - Setup some dataset.
 - Tune our `Hadoop` Cluster.
 - Get familiar with `MapReduce` and `MrJob`.
+
+```bash
+.
+├── resources                           # used during the lesson
+├── v3_exercises_material               # exercise material
+├── install_mrjob.md                    # guide for installing MRJob 
+├── jupyter_lab.md                      # guide for configuring JupyterLab
+├── preparing_dataset.md                # some example dataset
+├── tuning_yarn.md                      # using all cores and more memory
+└── v3_exercises.md                     # exercises for this week
+```
