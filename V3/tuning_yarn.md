@@ -2,8 +2,8 @@
 
 In the example of the word count with the 10 gigs we saw two major drawbacks.
 
-1. We spill our intermediate results to `/` and not `/data`.
-2. Not all CPUs are used / more memory could be used.
+1. We spill our intermediate results to `/` and not to `/data`.
+2. Not all CPUs are used and more memory could be used.
 
 ## Change Spilling Directory
 
