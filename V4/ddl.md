@@ -36,10 +36,9 @@ This triggers a MapReduce job. Check it out in YARN http://bdlc-XX.el.eee.intern
 SELECT * FROM test_table;
 ```
 
-## HIVE SQL in JupyterLab
+## HIVE SQL in `JupyterLab`
 
-It is more comfortable to work in `JupyterLab`. You can test the Notebook in `BDLC_FS22/V4/resources/Testing_HIVE.ipynb`.
-
+It is more comfortable to work in `JupyterLab`. You can test the Notebook in `BDLC_FS22/V4/resources/Testing_Hive.ipynb`.
 
 ## References
 
