@@ -389,11 +389,11 @@ exit;
 We can run SQL directly in `JupyterLab`. Open a terminal in `Jupyterlab` and install:
 
 ```bash
-pip install ipython-sql
+pip install SQLAlchemy==1.3.24
 pip install pandas
-pip install sqlalchemy
-pip install pyhive
 pip install mysqlclient
+pip install ipython-sql
+pip install pyhive
 pip install pyhive[hive]
 ```
 
