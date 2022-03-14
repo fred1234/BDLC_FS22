@@ -397,7 +397,8 @@ pip install mysqlclient
 pip install pyhive[hive]
 ```
 
-Afterwards you can test the Notebook in `BDLC_FS22/V4/resources/Testing_MYSQL_access.ipynb`. If you don't see it, you need to pull the newest files from `github` first `Git > Pull from Remote`.
+Afterwards you can test the Notebook in `BDLC_FS22/V4/resources/Testing_MYSQL.ipynb`. If you don't see it, you need to pull the newest files from `github` first `Git > Pull from Remote`.
+(Please also checkout the forum entry about making a [backup](https://elearning.hslu.ch/ilias/ilias.php?ref_id=5324442&cmdClass=ilobjforumgui&thr_pk=55627&page=0&cmd=viewThread&cmdNode=10f:qo&baseClass=ilrepositorygui)).
 
 ## Starting Hive
 
