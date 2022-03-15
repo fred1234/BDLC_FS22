@@ -460,6 +460,9 @@ Start `JupyterLab` again with
 nohup jupyter lab > error.log &
 ``` -->
 
+## Creating a Database / a Table and Inserting Data
+
+Let us go to the [Data Definition Language](./ddl.md) document.
 ## References
 
 - [Hive's website](https://cwiki.apache.org/confluence/display/Hive/Home)
