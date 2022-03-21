@@ -6,7 +6,7 @@ The workshop is created by Stefanie Molin,  data scientist and software engineer
 
 >Working with data can be challenging: it often doesn’t come in the best format for analysis, and understanding it well enough to extract insights requires both time and the skills to filter, aggregate, reshape, and visualize it. This session will equip you with the knowledge you need to effectively use pandas – a powerful library for data analysis in Python – to make this process easier.
 
-The Course has for sections:
+The Course has four sections:
 
 - Section 1: Getting Started With Pandas
 - Section 2: Data Wrangling
