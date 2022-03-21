@@ -78,3 +78,12 @@ This repository is used to provide additional resources for `BDLC_FS22`.
 ├── ddl.md                              # Creating databases and tables. Insert data into tables with Hive.
 └── install_hive.md                     # Installation guide for Hive.
 ```
+
+## [V5](./V5/)
+
+- Pandas Workshop created by Stefanie Molin
+
+```bash
+.
+└── pandas_course.md                # Guide to run and install the workshop.
+```
