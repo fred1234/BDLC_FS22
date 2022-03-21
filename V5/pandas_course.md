@@ -58,12 +58,7 @@ All the files are saved automatically for you. However, there are a few steps (a
 8. Clone the pandas workshop from git: `git clone https://github.com/stefmolin/pandas-workshop.git`
 9. Create a virtual enviornment (venv) for the workshop with `python3 -m venv pandas_workshop_venv`.
 10. Activate the venv `source pandas_workshop_venv/bin/activate`.
-    1. The prompt of your shell should change
-    from e.g.:
-    `fhadoop@bdlc-20:~/pandas-workshop$`
-        to:
-    `(pandas_workshop_venv) hadoop@bdlc-20:~/pandas-workshop$`
-
+    1. The prompt of your shell should change from e.g.: `hadoop@bdlc-20:~/pandas-workshop$` to: `(pandas_workshop_venv) hadoop@bdlc-20:~/pandas-workshop$`
 11. Change to the workshop-folder:
 
     ```bash
