@@ -68,6 +68,7 @@ All the files are saved automatically for you. However, there are a few steps (a
     e.g.
 
     ```bash
+    (pandas_workshop_venv) hadoop@bdlc-19:~/pandas-workshop$ cd pandas-workshop/
     (pandas_workshop_venv) hadoop@bdlc-20:~/pandas-workshop/pandas-workshop$ pwd
     /home/hadoop/pandas-workshop/pandas-workshop
     ```
