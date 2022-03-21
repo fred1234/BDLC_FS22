@@ -20,7 +20,6 @@ The notebooks (where you work) are saved under the folder `notebooks`. The solut
 Make sure that you have `[ OK ]` in all environment checks in the first notebook called `0-check_your_env.ipynb` by **running** the cell:
 ![image](https://user-images.githubusercontent.com/646839/159240004-d2c3efb2-40fa-489a-9b95-96063df4f689.png)
 
-
 ## Running the Pandas Workshop Course
 
 You have two options: online or on your cluster.
