@@ -76,10 +76,10 @@ All the files are saved automatically for you. However, there are a few steps (a
 12. Install the necessary python libraries with `pip3 install -r requirements.txt`.
 13. Start the workshop with `jupyter lab`.
 14. As long as the shell is open, you can access [http://bdlc-XX.el.eee.intern:8888/lab](http://bdlc-XX.el.eee.intern:8888/lab).
-   1. Use your jupyterlab password
-   2. You can dismiss the warnings: `jupyterlab-git server extension` and `Jupyterlab Code Formatter Error`.
+    1. Use your `jupyterlab` password.
+    2. You can dismiss the warnings: `jupyterlab-git server extension` and `Jupyterlab Code Formatter Error`.
 
-Note, if you logout from your session, the jupyter daemon is no longer listening. If you want to continue with the course, just activate the venv again and start `jupyterlab`, e.g.
+Note, if you logout from your session, the `jupyter daemon` is no longer listening. If you want to continue with the course, just activate the venv again and start `jupyterlab`, e.g.
 
 ```bash
 source ~/pandas-workshop/pandas_workshop_venv/bin/activate
