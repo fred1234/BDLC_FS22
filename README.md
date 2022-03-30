@@ -87,3 +87,19 @@ This repository is used to provide additional resources for `BDLC_FS22`.
 .
 └── pandas_course.md                # Guide to run and install the workshop.
 ```
+
+## [V6](./V6/)
+
+- Adding MovieLens 25M dataset to Hive.
+- Together: Answering some questions to the MovieLens dataset.
+- Parquet Files: how to read, save parquet files.
+- Save the MovieLens files as parquet.
+- Exercise with "die Post" dataset where we also use partitions.  
+
+```bash
+.
+├── 1_movie_lens                    # MovieLens 25M dataset
+├── 2_parquet                       # Parquet and python
+├── 3_movie_lens_parquet            # All notebooks for movielens to parquet
+├── v6_exercises_material           # Exercises for this week
+```
