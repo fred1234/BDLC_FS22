@@ -103,3 +103,21 @@ This repository is used to provide additional resources for `BDLC_FS22`.
 ├── 3_movie_lens_parquet            # All notebooks for movielens to parquet
 ├── v6_exercises_material           # Exercises for this week
 ```
+
+## [V7](./V7/)
+
+- Intro to Spark.
+- Install Spark.
+- Testing Spark Context and SQL Context in our Setup.
+- Testing Spark in JupyterLab
+- Exercises
+
+```bash
+.
+├── v7_exercises_material                   # Exercises for this week
+│   ├── 1_PySpark.ipynb                     # This exercise comes from [pnavaro](https://github.com/pnavaro/big-data)
+│   └── 2_Text_Processing.ipynb             # Word Count and Text-Generator
+├── 1_spark_context.ipynb                   # Testing Spark Context in Jupyterlab.
+├── 2_spark_sql.ipynb                       # Testing Spark-SQL in Jupyterlab.
+├── install_spark.md                        # How to install Spark.
+```
