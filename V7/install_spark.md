@@ -272,7 +272,7 @@ Exit with `exit()`.
 
 ## References
 
-https://spark.apache.org
-https://spark.apache.org/docs/latest/running-on-yarn.html
-https://computingforgeeks.com/how-to-install-apache-spark-on-ubuntu-debian/
-https://sparkbyexamples.com/spark/spark-setup-on-hadoop-yarn/
+- https://spark.apache.org
+- https://spark.apache.org/docs/latest/running-on-yarn.html
+- https://computingforgeeks.com/how-to-install-apache-spark-on-ubuntu-debian/
+- https://sparkbyexamples.com/spark/spark-setup-on-hadoop-yarn/
