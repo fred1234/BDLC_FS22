@@ -108,9 +108,9 @@ This repository is used to provide additional resources for `BDLC_FS22`.
 
 - Intro to Spark.
 - Install Spark.
-- Testing Spark Context and SQL Context in our Setup.
-- Testing Spark in JupyterLab
-- Exercises
+- Testing Spark Context and SQL Context in our setup.
+- Testing Spark in JupyterLab.
+- Exercises about Spark and RDDs.
 
 ```bash
 .
