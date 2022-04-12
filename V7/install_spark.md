@@ -39,7 +39,7 @@ Let us create a spark directory in `hdfs` and add the necessary jars to it.
 
 ```bash
 cd ~
-jar cv0f spark-libs.jar -C $SPARK_HOME/jars/ ~/.
+jar cv0f spark-libs.jar -C $SPARK_HOME/jars/ .
 ```
 
 ```bash
