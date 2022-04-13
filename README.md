@@ -121,3 +121,17 @@ This repository is used to provide additional resources for `BDLC_FS22`.
 ├── 2_spark_sql.ipynb                       # Testing Spark-SQL in Jupyterlab.
 ├── install_spark.md                        # How to install Spark.
 ```
+
+## [V8](./V8/)
+
+- Intro to Spark DataFrames (DF) and SQL
+- DF Basics
+- Analyzing unix.stackexchange.com
+
+```bash
+.
+├── 1_Spark_SQL_Parquet_Compressed.ipynb   # Speed test Spark SQL vs Hive (MapReduce)
+├── 2_Spark_DF_Gutenberg.ipynb             # Speed test gutenberg wordcount
+├── 3_Spark_DF_Basics.ipynb                # Basic usage for DFs (from the Book Spark - The Definitive Guide)
+├── 4_unix.stackexchange.com.ipynb         # DFs and the unix.stackexchange.com dataset (incl. some questions at the end)
+```
