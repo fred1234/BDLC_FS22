@@ -135,3 +135,18 @@ This repository is used to provide additional resources for `BDLC_FS22`.
 ├── 3_Spark_DF_Basics.ipynb                # Basic usage for DFs (from the Book Spark - The Definitive Guide)
 ├── 4_unix.stackexchange.com.ipynb         # DFs and the unix.stackexchange.com dataset (incl. some questions at the end)
 ```
+
+## [V9](./V9/)
+
+- Machine Learning
+  - Generalisierung und Metriken
+  - Spark und ML
+
+```bash
+.
+├── 1_polyfit.ipynb
+├── 2_MNIST_Logistic_Regression.ipynb
+├── 2_MNIST_MultilayerPerceptronClassifier.ipynb
+├── 3_Linear_Regression.ipynb
+└── 4_ALS.ipynb
+```
