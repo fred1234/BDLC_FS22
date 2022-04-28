@@ -84,7 +84,7 @@ Make sure to check the `Allow write access` option.
 
 ```bash
 cd ~
-git@github.com:fred1234/BDLC_FS22_Project_Template.git
+git clone git@github.com:fred1234/BDLC_FS22_Project_Template.git
 cd BDLC_FS22_Project_Template/
 ```
 
