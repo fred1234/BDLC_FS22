@@ -170,7 +170,7 @@ Use your master instead of `bdlc-test.el.eee`.
 
 ### `hdfs-site.xml`
 
-for `~/hadoop/etc/hadoop/hdfs-site` with:
+for `~/hadoop/etc/hadoop/hdfs-site.xml` with:
 
 ```xml
 <configuration>
@@ -202,7 +202,7 @@ nano ~/hadoop/etc/hadoop/hdfs-site.xml
 Add all datanodes to this file:
 
 ```bash
-nano /usr/local/hadoop/etc/hadoop/workers
+nano  ~/hadoop/etc/hadoop/workers
 ```
 
 E.g.
