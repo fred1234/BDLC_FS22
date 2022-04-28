@@ -46,12 +46,12 @@ Download Hadoop and Spark, extract it and rename.
 ```bash
 cd ~
 
-print "Hadoop"
+echo "Hadoop"
 wget https://downloads.apache.org/hadoop/common/hadoop-3.3.1/hadoop-3.3.1.tar.gz
 tar -xvzf hadoop-3.3.1.tar.gz
 mv hadoop-3.3.1 hadoop
 
-print "Spark"
+echo "Spark"
 wget https://dlcdn.apache.org/spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz
 tar xvf spark-3.2.1-bin-hadoop3.2.tgz
 mv spark-3.2.1-bin-hadoop3.2 spark
