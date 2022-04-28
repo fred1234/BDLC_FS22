@@ -450,3 +450,12 @@ nohup jupyter lab > jupyter.log &
 ```
 
 The service should still be accessible via `http://bdlc-XX.el.eee.intern:8888/lab`.
+
+# Services Overview
+
+|Service|Port | Example|
+| ----------- | ----------- | ----------- |
+|HDFS Hadoop Overview |9870 |  http://bdlc-test.el.eee.intern:9870/ |
+|JupyterLab           |8888 | http://bdlc-test.el.eee.intern:8888/lab |
+|Spark Cluster Master |8080 | http://bdlc-test.el.eee.intern:8080/ |
+|Spark History Server |18080| http://bdlc-test.el.eee.intern:18080/ |
