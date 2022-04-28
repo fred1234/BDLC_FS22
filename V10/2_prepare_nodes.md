@@ -1,6 +1,45 @@
 
 # Setup on all Nodes
 
+# Important
+
+We need to modify the `/etc/hosts` file. It looks like an error from the deployment.
+
+As user `student`, modify the `/etc/hosts` file
+
+`sudo nano /etc/hosts`
+
+The line with `127.0.1.1       bdlc-XX.el.eee.intern bdlc-XX` is wrong and you should delete it.
+
+e.g. from:
+
+```bash
+
+127.0.0.1 localhost
+
+127.0.1.1       bdlc-18.el.eee.intern bdlc-18
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+```
+to:
+
+```bash
+
+127.0.0.1 localhost
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+```
+
 ## User
 
 We are going to create a new user for the cluster setup. This user will be used for your project work.
