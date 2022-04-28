@@ -150,3 +150,19 @@ This repository is used to provide additional resources for `BDLC_FS22`.
 ├── 3_Linear_Regression.ipynb
 └── 4_ALS.ipynb
 ```
+
+## [V10](./V10/)
+
+Fokus: Projektarbeit
+
+```bash
+.
+├── Projektartbeit                              # Template for the group-work
+│   ├── dataset_ideas.md
+│   └── Projektarbeit_Template.md
+├── Jupyter_Notebooks_For_Taxi                  # Jupyter Files for Taxi Analysis
+├── 1_stop_all_services.md                      # Creating a Cluster: stopping all services
+├── 2_prepare_nodes.md                          # Creating a Cluster: prepare all node
+├── 3_master_node.md                            # Creating a Cluster: setup the master node
+├── 4_dataset.md                                # Creating a Cluster: dataset download and pushing to HDFS
+```
