@@ -17,6 +17,10 @@
 - lohnt sich
 - (pre) Joining von Tabellen kann sich lohnen
 
+## Testen der Services
+
+- Reicht ein `jps` ?
+
 ## Schemas
 
 ```python
