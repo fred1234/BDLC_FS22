@@ -101,3 +101,15 @@ Don't push large files. Use `.gitignore` to blacklist files/folders.
 df_carriers.select('Code').count()
 df_carriers.select('Code').distinct().count()
 ```
+
+### In die Daten Schauen
+
+Encoding Probleme gefunden.
+
+### Schema and Parquet
+
+> Cooool, da gits d files i parquet, denn müemer eus nöd ums Schema kümmere.
+
+### Pre-Processing with Spark
+
+Erkenntnis, dass Spark auch ein super pre-processing tool ist.
