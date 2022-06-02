@@ -108,7 +108,10 @@ df_carriers.select('Code').distinct().count()
 
 ### In die Daten Schauen
 
-Encoding Probleme gefunden.
+- Encoding Probleme gefunden.
+- Null checks
+- New Data over time problem
+- Aggregation pitfalls
 
 ### Schema and Parquet
 
